@@ -3,4 +3,4 @@ server:
 
 bbidag:
   test: hello world!!
-  test-count: 10
+  test-count: 5
