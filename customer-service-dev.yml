@@ -2,5 +2,5 @@ server:
   port: 8090
 
 bbidag:
-  test: hello world!
-  test-count: 7
+  test: hello world!!
+  test-count: 10
