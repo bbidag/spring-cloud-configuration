@@ -1,0 +1,6 @@
+server:
+  port: 8180
+
+bbidag:
+  test: hello world
+  test-count: 5

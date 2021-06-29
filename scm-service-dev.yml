@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+bbidag:
+  test: hello world
+  test-count: 1
